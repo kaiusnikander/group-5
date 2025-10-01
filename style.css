@@ -17,3 +17,8 @@ footer {
     color: white;
     font-size: 14px;
 }
+.hero-section {
+    text-align: center;
+    padding: 80px 20px;
+    background-color: #f4f4f9;
+}

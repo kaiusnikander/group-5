@@ -22,3 +22,17 @@ footer {
     padding: 80px 20px;
     background-color: #f4f4f9;
 }
+.btn-cta {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btn-cta:hover {
+    background-color: #0056b3;
+}

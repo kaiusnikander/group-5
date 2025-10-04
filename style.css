@@ -70,3 +70,8 @@ footer {
     text-decoration: none;
     font-weight: bold;
 }
+
+.navbar a:hover {
+    color: rgb(188, 186, 215);
+    transition: color 0.3s;
+}
